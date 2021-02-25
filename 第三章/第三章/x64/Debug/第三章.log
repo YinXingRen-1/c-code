@@ -1,0 +1,3 @@
+﻿  3.c
+C:\Users\宋增\Desktop\code\第三章\第三章\3.c(18,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“float *”
+  第三章.vcxproj -> C:\Users\宋增\Desktop\code\第三章\x64\Debug\第三章.exe
